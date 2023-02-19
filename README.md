@@ -12,7 +12,7 @@ ModPack For Server Minecraft 1.12.2
 
 Установка:
 ---
-1. Узнать где установлена игра(.minecraft) https://skr.sh/sIQO6o7HEgY
+1. Узнать где установлена игра(.minecraft) ![check folder minecraft](https://skr.sh/sIQO6o7HEgY)
 2. Кидать папку из архива по пути: .minecraft/versions
 3. Нажать в лаунчере на кнопку перезапустить https://skr.sh/sIQ39LN0aWj
 4. Найти сборку рядом с версией игры 1.12.2
