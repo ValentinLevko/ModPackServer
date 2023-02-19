@@ -6,13 +6,13 @@ ModPack For Server Minecraft 1.12.2
 
 Сборка модов для игры на сервере/одиночной/с друзьями Сберка тестируется
 
-Мод пак предназначен для лаунчера игры "TLauncher" Сслыка на лаунчер: tlauncher.org
+Мод пак предназначен для лаунчера игры "TLauncher" Сслыка на лаунчер: ![DOWNLOAD](tlauncher.org}
 
 Скачать сборку: 
 
 Установка:
 ---
-1. Узнать где установлена игра(.minecraft) ![check folder minecraft](https://skr.sh/sIQO6o7HEgY)
+1. Узнать где установлена игра(.minecraft) https://skr.sh/sIQO6o7HEgY
 2. Кидать папку из архива по пути: .minecraft/versions
 3. Нажать в лаунчере на кнопку перезапустить https://skr.sh/sIQ39LN0aWj
 4. Найти сборку рядом с версией игры 1.12.2
